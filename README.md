@@ -55,3 +55,6 @@ To ensure optimal performance and prevent conflicts with the launcher's Metal FS
 
 ## Credits
 Special thanks to **u/Early_Technician_540** on r/Skate4 for discovering the baseline GameHub, Wine, and GPTK translation configurations.
+https://www.reddit.com/r/Skate4/s/TbUS2xya6N
+
+
